@@ -513,15 +513,15 @@ fun AccountScreen(isLightTheme: Boolean, navController: NavController) {
                     ) {
                         Text("Save Settings")
                     }
-                    Button(
-                        modifier = Modifier.padding(20.dp),
-                        onClick = {
-                            ThemeSettings.isLightTheme = !ThemeSettings.isLightTheme
-                        }
-                    ) {
-                        Text(if (isLightTheme) "Switch to Dark Theme" else "Switch to Light Theme")
-                    }
                 }
+            }
+            Button(
+                modifier = Modifier.padding(20.dp),
+                onClick = {
+                    ThemeSettings.isLightTheme = !ThemeSettings.isLightTheme
+                }
+            ) {
+                Text(if (isLightTheme) "Switch to Dark Theme" else "Switch to Light Theme")
             }
         }
     }
