@@ -1,213 +1,145 @@
-# Health Social App 📱
-An interactive health and fitness tracker app built with **Jetpack Compose** that helps users monitor their activity, log profile information, and interact with friends. The app includes features like heart rate monitoring, step tracking, calorie burned, and an editable profile, making it a comprehensive tool for health and fitness enthusiasts.
----
-
-
-
-## Features ✨
-
-
-
-### **1. Profile Management**
-
-- Add and edit profile details including name, age, weight, and daily step goals.
-
-- Upload and update a profile picture with an intuitive edit option.
-
-- View a summary of your profile data in a clean and organized layout.
-
-
-
-### **2. Health Metrics**
-
-- **Heart Rate Monitoring**:
-
-  - Measure your heart rate in real-time.
-
-  - View a history of previously recorded heart rate data.
-
-- **Calories Burned & Steps**:
-
-  - Statistics for steps and calories burned displayed in the profile.
-
-
-
-### **3. Friends Section**
-
-- View a list of friends with:
-
-  - Their profile pictures.
-
-  - Daily steps and motivational messages.
-
-- A fun way to stay connected and competitive with your friends.
-
-
-
-### **4. Dynamic Navigation**
-
-- **Bottom Navigation Bar**:
-
-  - Navigate seamlessly between Profile, Friends, Heart Rate, and Account screens.
-
-  - The navigation bar highlights the current active screen dynamically.
-
-- **Conditional Account Management**:
-
-  - Log in to personalize your experience.
-
-  - Log out to reset the app and clear stored data.
-
-
-
-### **5. Customizable Themes**
-
-- **User Interface**:
-
-  - Toggle between light and dark themes for a personalized app experience.
-
-
+Here's the visually enhanced and formatted README with a Table of Contents:
 
 ---
 
-## Screenshots 📸
+# 🌟 Health Social App 📱  
 
-### Profile Screen
-
-![Screenshot 2024-12-08 185936](https://github.com/user-attachments/assets/f3af5fe7-dc78-4a40-9e3c-a0cb588328f4)
-
-
-
-
-### Friends Section
-
-**Dark Mode:**
-
-![Screenshot 2024-12-08 185949](https://github.com/user-attachments/assets/e0eb78d2-b969-41c6-ae5c-f84144d4cc83)
-
-**Light Mode:**
-
-![Screenshot 2024-12-08 190558](https://github.com/user-attachments/assets/7caadaca-994d-485b-aee2-a55a0335a0c2)
-
-
-### Account Screen
-
-![Screenshot 2024-12-08 190612](https://github.com/user-attachments/assets/f891a898-62ac-41e0-9882-abe1fe1ab181)
-
-
-
-### Heart Rate Screen
-
-![Screenshot 2024-12-08 190004](https://github.com/user-attachments/assets/e4b09b5b-2a00-4efb-9d4d-c2db64f8cdbb)
-
+An interactive **health and fitness tracker app** built with **Jetpack Compose**. This app empowers users to monitor their health metrics, manage their profiles, and stay connected with friends. Features include **real-time heart rate monitoring**, **step tracking**, **calorie burned stats**, and an intuitive interface for personal and social engagement.  
 
 ---
 
-## Technology Stack 🛠️
+## 📋 Table of Contents  
 
-- **Programming Language**: Kotlin
-
-- **Framework**: Android Jetpack Compose
-
-- **State Management**: Compose's built-in state and `mutableStateOf`
-
-- **Navigation**: Jetpack Navigation Compose
-
-
-
----
-
-## Context 📖
-
-This app was created as part of a **health and fitness project** designed to demonstrate:
-
-- The capabilities of Jetpack Compose for building modern, declarative UI.
-
-- Integration of state management and navigation for a seamless user experience.
-
-- Fun and engaging ways to keep track of health metrics while staying connected with friends.
-
-
-
-The app is ideal for anyone learning Android development or interested in exploring Compose-based solutions for health tracking applications. The app mainly focuses on the UI and UX part for development.
-
-
+1. [✨ Features](#-features)  
+2. [📸 Screenshots](#-screenshots)  
+3. [🛠️ Technology Stack](#️-technology-stack)  
+4. [📖 Context](#-context)  
+5. [🔍 How It Works](#-how-it-works)  
+6. [🚀 Future Improvements](#-future-improvements)  
+7. [📬 Contact](#-contact)  
+8. [🧰 Installation Guide](#-installation-guide)  
 
 ---
 
-## How It Works 🔍
+## ✨ Features  
 
+### 1️⃣ **Profile Management**  
+- Create and edit profile details: name, age, weight, and daily step goals.  
+- Upload or update a profile picture.  
+- View a summary of profile data in a clean layout.  
 
+### 2️⃣ **Health Metrics**  
+- **Heart Rate Monitoring**:  
+  - Measure your heart rate in real-time.  
+  - Maintain a history of recorded heart rate data.  
+- **Calories Burned & Steps**:  
+  - Track steps and calories burned directly on your profile.  
 
-### Login Flow
+### 3️⃣ **Friends Section**  
+- View a list of friends:  
+  - Their profile pictures.  
+  - Daily steps and motivational messages.  
+- Foster friendly competition and connection.  
 
-1. Go to the **Account Screen**.
+### 4️⃣ **Dynamic Navigation**  
+- **Bottom Navigation Bar**:  
+  - Navigate seamlessly across screens like Profile, Friends, Heart Rate, and Account.  
+  - Highlights the current active screen dynamically.  
+- **Account Management**:  
+  - Log in for a personalized experience.  
+  - Log out to reset data.  
 
-2. Fill in profile details (name, weight, age, daily steps goal).
-
-3. Upload a profile picture and save settings.
-
-4. Navigate to the **Profile Screen** to view your updated profile.
-
-
-
-### Heart Rate Monitor
-
-1. Navigate to the **Heart Rate Screen**.
-
-2. Press "Measure Heart Rate" to simulate a heart rate reading.
-
-3. View all recorded readings in the history section below.
-
-
-
-### Friends Section
-
-- Check out a fun list of friends with their daily step counts and motivational messages.
-
-
-
----
-
-
-
-## Future Improvements 🚀
-
-- **Integration with Wearable Devices**:
-
-  - Sync real-time health data from smartwatches.
-
-- **Charts and Insights**:
-
-  - Add line charts for step and calorie trends.
-
-- **Push Notifications**:
-
-  - Notify users about fitness goals and inactivity reminders.
-
-- **Gamification**:
-
-  - Introduce badges and rewards for achieving milestones.
-
-
+### 5️⃣ **Customizable Themes**  
+- Toggle between **light** and **dark** themes for a tailored user experience.  
 
 ---
 
-## Contact 📬
+## 📸 Screenshots  
 
-If you have any questions, feel free to reach out:
+### 🧍 Profile Screen  
+![Profile Screen](https://github.com/user-attachments/assets/f3af5fe7-dc78-4a40-9e3c-a0cb588328f4)  
 
-- **Author**: Muhammad Arsalan
+### 👥 Friends Section  
+**Dark Mode:**  
+![Friends Dark Mode](https://github.com/user-attachments/assets/e0eb78d2-b969-41c6-ae5c-f84144d4cc83)  
 
-- **Email**: muhammadkca10@gmail.com
+**Light Mode:**  
+![Friends Light Mode](https://github.com/user-attachments/assets/7caadaca-994d-485b-aee2-a55a0335a0c2)  
 
+### 🧑‍💻 Account Screen  
+![Account Screen](https://github.com/user-attachments/assets/f891a898-62ac-41e0-9882-abe1fe1ab181)  
+
+### ❤️ Heart Rate Screen  
+![Heart Rate Screen](https://github.com/user-attachments/assets/e4b09b5b-2a00-4efb-9d4d-c2db64f8cdbb)  
 
 ---
 
-## Installation Guide 🧰
+## 🛠️ Technology Stack  
+
+- **Language**: Kotlin  
+- **Framework**: Android Jetpack Compose  
+- **State Management**: Compose's built-in `mutableStateOf`  
+- **Navigation**: Jetpack Navigation Compose  
+
+---
+
+## 📖 Context  
+
+This app was created as part of a **health and fitness project**. It focuses on:  
+- **Exploring Jetpack Compose** for building modern, declarative UI.  
+- **Integrating state management** for smooth interactions.  
+- **Enhancing user experience** with clean layouts and responsive designs.  
+
+The project is ideal for developers learning Android or building health-tracking applications.  
+
+---
+
+## 🔍 How It Works  
+
+### 🔑 Login Flow  
+1. Open the **Account Screen**.  
+2. Fill in profile details (name, weight, age, daily step goal).  
+3. Upload a profile picture and save settings.  
+4. View the profile data in the **Profile Screen**.  
+
+### ❤️ Heart Rate Monitor  
+1. Go to the **Heart Rate Screen**.  
+2. Press "Measure Heart Rate" to simulate a reading.  
+3. View recorded readings in the history section.  
+
+### 👥 Friends Section  
+- View a list of friends with daily steps and motivational quotes.  
+
+---
+
+## 🚀 Future Improvements  
+
+- **Wearable Device Integration**:  
+  - Sync real-time health data from smartwatches.  
+- **Charts & Insights**:  
+  - Add visual trends for steps and calories.  
+- **Push Notifications**:  
+  - Notify users about fitness goals and reminders.  
+- **Gamification**:  
+  - Introduce badges and rewards for milestones.  
+
+---
+
+## 📬 Contact  
+
+📧 **Author**: Muhammad Arsalan  
+📩 **Email**: [muhammadkca10@gmail.com](mailto:muhammadkca10@gmail.com)  
+
+---
+
+## 🧰 Installation Guide  
 
 1. Make sure to import project properly.
    
 2. Check Gradle Module file if **run** button is disabled:
 
    - Sync Gradle Module File by Selecting the option from the top of the Gradle file.
+
+---
+
+🎉 Thank you for exploring the **Health Social App**! 🚀  
