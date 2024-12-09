@@ -74,7 +74,8 @@ An interactive health and fitness tracker app built with **Jetpack Compose** tha
 
 ### Profile Screen
 
-to do
+![Screenshot 2024-12-08 185936](https://github.com/user-attachments/assets/f3af5fe7-dc78-4a40-9e3c-a0cb588328f4)
+
 
 
 
