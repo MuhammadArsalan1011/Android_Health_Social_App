@@ -207,5 +207,7 @@ If you have any questions, feel free to reach out:
 ## Installation Guide 🧰
 
 1. Make sure to import project properly.
+   
 2. Check Gradle Module file if **run** button is disabled:
+
    - Sync Gradle Module File by Selecting the option from the top of the Gradle file.
