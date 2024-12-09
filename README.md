@@ -81,18 +81,22 @@ An interactive health and fitness tracker app built with **Jetpack Compose** tha
 
 ### Friends Section
 
-to do
+**Dark Mode:**
+![Screenshot 2024-12-08 185949](https://github.com/user-attachments/assets/e0eb78d2-b969-41c6-ae5c-f84144d4cc83)
 
+**Light Mode:**
+![Screenshot 2024-12-08 190558](https://github.com/user-attachments/assets/7caadaca-994d-485b-aee2-a55a0335a0c2)
 
 
 ### Account Screen
 
-to do
+![Screenshot 2024-12-08 190612](https://github.com/user-attachments/assets/f891a898-62ac-41e0-9882-abe1fe1ab181)
+
 
 
 ### Heart Rate Screen
 
-to do
+![Screenshot 2024-12-08 190004](https://github.com/user-attachments/assets/e4b09b5b-2a00-4efb-9d4d-c2db64f8cdbb)
 
 
 ---
