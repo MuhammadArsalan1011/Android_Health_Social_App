@@ -1,7 +1,3 @@
-Here's the visually enhanced and formatted README with a Table of Contents:
-
----
-
 # 🌟 Health Social App 📱  
 
 An interactive **health and fitness tracker app** built with **Jetpack Compose**. This app empowers users to monitor their health metrics, manage their profiles, and stay connected with friends. Features include **real-time heart rate monitoring**, **step tracking**, **calorie burned stats**, and an intuitive interface for personal and social engagement.  
